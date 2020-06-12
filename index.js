@@ -34,3 +34,5 @@ class Bird{
       }
   }
 }
+let cat = new Cat("psha","male")
+cat.speak()
